@@ -1,0 +1,1 @@
+https://node-red-dwriz.eu-gb.mybluemix.net/ui
